@@ -10,14 +10,7 @@ const items = [
     desc: "Our Learning Management System enables teachers to create multimedia-rich courses, while secure payment integration ensures a seamless enrollment process. With a diverse range of subjects and skill levels, students can easily find courses tailored to their needs. Real-time progress tracking and detailed analytics enhance the learning experience for both educators and students."
 ,  link:"https://learning-management-system-ten-kappa.vercel.app"
   },
-    {
-    id: 2,
-    title: "Mrine",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "business listing application where the users can give review ,send messages,and explore business.",
-     link:"https://merine-business-navy.vercel.app/"
 
-  },
   {
     id: 3,
     title: "Temene website app",
@@ -25,6 +18,13 @@ const items = [
     desc: "a website that have different courses for ethiopians.",
     link:"https://temene.vercel.app/"
 
+  },
+  {
+    id: 2,
+    title: "Mrine",
+    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "business listing application where the users can give review ,send messages,and explore business.",
+     link:"https://temene.vercel.app/"
   },
   {
     id: 4,
